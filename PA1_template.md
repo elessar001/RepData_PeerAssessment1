@@ -113,7 +113,7 @@ The **number of rows** with missing observations is **2304**.
 
 All NA values in the data set will be replaced by 0.
 
-### Create New Data Set With Missing Data Filled In
+### Create New Data Set With Missing Data Filled In (Implementing Strategy)
 
 
 ```r
